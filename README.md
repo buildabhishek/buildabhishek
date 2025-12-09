@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Abhishek 👋  
 
-<!--
-**buildabhishek/buildabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Software Developer passionate about building real-world, scalable applications using modern web technologies, AI/ML, and system-level programming.
 
-Here are some ideas to get you started:
+## 🔧 Skills  
+- Languages: C++, Python, JavaScript  
+- Frontend: HTML, CSS, React  
+- Backend: Node.js, Flask, FastAPI  
+- Databases: MySQL, MongoDB  
+- Tools: Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus  
+- Full Stack Development  
+- Data Structures & Algorithms  
+- AI/ML Fundamentals  
+- Placement Preparation  
+
+## 📌 What I Believe In  
+- Writing clean, readable, and maintainable code  
+- Building projects that solve real problems  
+- Learning by doing and improving every day  
+
+## 📫 Connect With Me  
+- GitHub: https://github.com/buildabhishek  
