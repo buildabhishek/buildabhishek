@@ -87,14 +87,6 @@ I'm a software developer passionate about building scalable applications using m
 
 ---
 
-## 📊 GitHub Stats
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishekthakare68&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekthakare68&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🎓 Education & Certifications
 
 **Bachelor of Technology** – Electronics & Telecommunication  
